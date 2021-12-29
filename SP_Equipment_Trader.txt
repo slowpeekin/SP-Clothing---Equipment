@@ -1,0 +1,42 @@
+	<Category> Backpacks
+		SP_Rucksack_Black, 				*, 	5000,	-1
+		SP_Rucksack_Camo, 				*, 	5000,	-1
+		SP_Rucksack_Desert, 			*, 	5000,	-1
+		SP_Rucksack_Digital, 			*, 	5000,	-1
+
+	<Category> Ghillie
+		SP_Ghillie_Hoodie_Arctic, 		*, 	5000,	-1
+		SP_Ghillie_Hoodie_Flecktarn, 	*, 	5000,	-1
+		SP_Ghillie_Hoodie_Multicam, 	*, 	5000,	-1
+		SP_Ghillie_Hoodie_WD, 			*, 	5000,	-1
+
+	<Category> Shoes
+		SP_Geezy_Black, 				*, 	5000,	-1
+		SP_Geezy_Navy, 					*, 	5000,	-1
+		SP_Geezy_Red, 					*, 	5000,	-1
+		SP_Geezy_Teal, 					*, 	5000,	-1
+		SP_Timberlands, 				*, 	5000,	-1
+
+	<Category> Masks
+		SP_JokerMask, 					*, 	5000,	-1
+		SP_PigMask, 					*, 	5000,	-1
+		SP_FireMan_GasMask, 			*, 	5000,	-1
+		SP_Samurai_Mask_1, 				*, 	5000,	-1
+		SP_Samurai_Mask_2, 				*, 	5000,	-1
+		SP_Samurai_Mask_3, 				*, 	5000,	-1
+		SP_Samurai_Mask_4, 				*, 	5000,	-1
+		SP_Balistic_Mask, 				*, 	5000,	-1
+		SP_The_Mask, 					*, 	5000,	-1
+		SP_Terror_Mask, 				*, 	5000,	-1
+		SP_Smiley_Mask, 				*, 	5000,	-1
+		SP_JigSaw_Mask, 				*, 	5000,	-1
+		SP_Jason_Mask, 					*, 	5000,	-1
+		SP_Fungus_Mask, 				*, 	5000,	-1
+		SP_HellRaiser_Mask, 			*, 	5000,	-1
+		SP_Crash_Mask, 					*, 	5000,	-1
+		SP_Anbu_Mask, 					*, 	5000,	-1
+		SP_Alien_Mask, 					*, 	5000,	-1
+
+	<Category> Helmets		
+		SP_Dark_Mjolnir, 				*, 	5000,	-1
+		SP_Russian_CVC_Helmet, 			*, 	5000,	-1
